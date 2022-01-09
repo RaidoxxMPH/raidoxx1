@@ -1,5 +1,5 @@
 ### Raidoxx | RDX
-#### Sou um dev iniciante 
+#### Sou iniciante 
 ![Sou um dev iniciante ](https://raw.githubusercontent.com/raidoxx1/raidoxx1/main/rdxgithubbanner.png)
 
  Olá meu nome é raidoxx, e estou começando a programar, por enquanto faço isso como hobby mas pretendo logo a diante trabalhar como desenvolvedor.
